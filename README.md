@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
 <article class="markdown-body">
-	<h1>Aplikasi Berbasis Algoritma Klasik untuk Deteksi Dini Penyakit Kulit</h1>
+	<h1>Aplikasi Deteksi Dini Penyakit Kulit</h1>
 	<h3>ITFEST2024_Hackathon_Narinda Genta</h3>	
 </article>
 <img src="https://github.com/narindagenta/Skin_Diseases_Early_Detector/blob/main/References/Header.jpg"/>
