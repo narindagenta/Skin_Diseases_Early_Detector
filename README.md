@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="github-markdown.css">
 <article class="markdown-body">
 	<h1>Aplikasi Berbasis Algoritma Klasik untuk Deteksi Dini Penyakit Kulit</h1>
-	<h3>Narinda Genta Rosasia</h3>	
+	<h3>ITFEST2024_Hackathon_Narinda Genta</h3>	
 </article>
 <img src="https://github.com/narindagenta/Skin_Diseases_Early_Detector/blob/main/Header.jpg"/>
  
